@@ -28,7 +28,7 @@ public class C1907LADF2TL7 {
     public static final String URL = "jdbc:mysql://localhost:3306/" + DB+"?serverTimezone=UTC";
     public static final String USER = "admin";
     public static final String PASS = "1234";
-    
+    public static String pass="mlm";
     /**
      * @param args the command line arguments
      */
